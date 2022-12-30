@@ -1,0 +1,156 @@
+What is Java?
+	- Java is a High level , object -oriented Programming langauage.
+
+
+High level - Human understandable code/program(AlphaNumeric)
+Assembly level - Mnemonic code(commands)
+Low Level - Machine Level langauge(Computer undertsandable language - 0's and 1's)
+
+
+Cobol,Pascal,C,C++, Java , Python - High Level language
+
+Basic - Assemble langauge
+
+What is programming?
+
+The art of creating programs to fulfill the needs of a computer and human being.
+
+What is program?
+Set of instructions which is used to perform a specific task.
+
+
+Object Oriented - Real world objects are mapped into program
+Example:
+
+Mysore - Object - Place
+
+ 	- name 
+	- attribute
+	- function
+
+
+class Mysore
+{
+		String Trainpath,BusRoute;
+		Double Airpath;
+
+		void BusRoute(int km,float speed,float time)
+		{
+
+		}
+
+		void train(int km,float speed,float time)
+		{
+
+		}
+}
+
+
+
+Object : Superstar
+
+	class Rajini
+	{
+			String color = dusky;
+			float height = 5.11;
+			float weight = 75.2;
+
+			walking();			
+			talking();
+			dancing();
+	}
+
+
+
+JDK - Java Development Kit - Software tool
+
+BIN:
+
+	- JRE (Java RunTime Environment) - Java Virtual Machine
+			javac - Java Compiler - Convert High level language into bytecode(Machine Independent) .class file
+			java  - Java Interpreter - Convert bytecode to machine code( it check & executes code line by line)
+
+	- API (application programming interface) - consist of collection of packages and classes for compiling &
+ executing java program
+
+LIB:
+classess & Packages
+
+code - constant,variables,keywords,functions,operators,control statement,looping, style,.
+
+ program:
+
+		input : data
+		process: data
+		output: data
+
+data?
+	raw information (fact), 
+
+data type:
+
+The type of value stored in a variable(data) and the size used to representation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

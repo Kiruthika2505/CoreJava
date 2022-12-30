@@ -1,0 +1,44 @@
+  
+
+10 -> n 
+
+n - display
+
+Variable:
+
+	- Variable holds value to store in a memory.
+       - It takes different value at different time.
+
+Declare:
+
+	Syntax:
+
+			Datatype variablename2,variablename.... variablename n;
+
+ex:
+		int n;
+
+		int sumNum;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

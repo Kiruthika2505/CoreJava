@@ -1,0 +1,46 @@
+Assignment Operator:
+
+Assigning value to the variable from right to left assignment
+
+Syntax:
+
+		variablename = value;
+
+		x=89;
+
+Shorthand Assignment:
+Syntax:
+
+		V op = exp;
+
+		V - Variable name
+		op - Operator
+		exp - exp
+
+example:
+
+	x=2                      x+=2  =>  adding left side variable x to the right side value and assign the result to left side
+					x = x+2; = 4
+
+	x=2                     x+=1
+					x=x+1  = 3 
+ 	
+					x* = x+2
+					x=x*(x+2) = 8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

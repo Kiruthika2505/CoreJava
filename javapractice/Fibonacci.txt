@@ -1,0 +1,21 @@
+Algorithm:
+		Step by Step detailed solutions for a program.
+
+Algorithm:
+	
+	Step 1: Start the process.
+	Step 2: import the util package for Scanner class to read user input.
+	Step 3: Declare a class as Fib.
+	Step 4: Define a main() i.e public static void main(String args[]).
+	Step 5: Declare a Scanner class to read the user input from the system.
+			Scanner sc = new Scanner(System.in)
+	Step 6: Declare the variables such as n,n1,n2,n3,i as integer.
+	Step 7: Assign value for first and Second numbers as n1=0,n2=1.
+	Step 8: Read the input object and convert into primitive datatype.
+				n = sc.nextInt();
+	Step 9: Compute the sum of previous numbers as n3 = n1+n2.
+	Step 10: Declare a for loop to repeat to calcalute the sum upto fixed numbers as n.
+				for(i=1;i<=n;i++)
+	Step 11: Goto Step 9, and Interchange the n1 ,n2 and n3.
+					n1 = n2; n2=n3
+	Step 12: Print the n1,n2 and n3 .
